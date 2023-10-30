@@ -1,0 +1,6 @@
+{
+  "clientID":"23RHP3",
+  "clientSecret":"71378937bf444f97789cebf38d2b4f86",
+  "redirectURI": "http://localhost:5000/fitbit_callback",
+  "codeState": "1987213zasdlkfhjlk123"
+}
