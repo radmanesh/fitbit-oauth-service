@@ -1,0 +1,28 @@
+{
+  "badges": [
+    {
+      "id": "user_idx0a35r",
+      "date": "2016-07-17",
+      "badge_type": "DAILY_STEPS",
+      "category": "Daily Steps",
+      "cheers": [],
+      "description": "35,000 steps in a day",
+      "earned_message": "Congrats on earning your first Hiking Boot badge!",
+      "encoded_id": "GGNJL9",
+      "image_100px": "https://static0.fitbit.com/images/badges_new/100px/badge_daily_steps35k.png",
+      "image_125px": "https://static0.fitbit.com/images/badges_new/125px/badge_daily_steps35k.png",
+      "image_300px": "https://static0.fitbit.com/images/badges_new/300px/badge_daily_steps35k.png",
+      "image_50px": "https://static0.fitbit.com/images/badges_new/badge_daily_steps35k.png",
+      "image_75px": "https://static0.fitbit.com/images/badges_new/75px/badge_daily_steps35k.png",
+      "marketing_description": "You've walked 35,000 steps  And earned the Hiking Boot badge!",
+      "mobile_description": "Woot, woot! There's no mountain you can't climb and no goal you can't get.",
+      "name": "Hiking Boot (35,000 steps in a day)",
+      "share_image_640px": "https://static0.fitbit.com/images/badges_new/386px/shareLocalized/en_US/badge_daily_steps35k.png",
+      "share_text": "I took 35,000 steps and earned the Hiking Boot badge! #Fitbit",
+      "short_description": "35,000 steps",
+      "short_name": "Hiking Boot",
+      "times_achieved": 1,
+      "value": 35000
+    }
+  ]
+}

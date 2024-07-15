@@ -1,0 +1,61 @@
+{
+  "sleep": [
+  {
+    "dateOfSleep": "2024-03-27",
+    "duration": 15840000,
+    "efficiency": 92,
+    "endTime": "2024-03-27T09:42:30.000",
+    "infoCode": 0,
+    "isMainSleep": true,
+    "levels":
+    {
+      "data": [
+      {
+        "dateTime": "2024-03-27T05:18:30.000",
+        "level": "light",
+        "seconds": 630
+      },
+      {
+        "dateTime": "2024-03-27T05:29:00.000",
+        "level": "deep",
+        "seconds": 2400
+      }],
+      "summary":
+      {
+        "deep":
+        {
+          "count": 2,
+          "minutes": 47,
+          "thirtyDayAvgMinutes": 76
+        },
+        "light":
+        {
+          "count": 16,
+          "minutes": 122,
+          "thirtyDayAvgMinutes": 201
+        },
+        "rem":
+        {
+          "count": 3,
+          "minutes": 60,
+          "thirtyDayAvgMinutes": 84
+        },
+        "wake":
+        {
+          "count": 14,
+          "minutes": 35,
+          "thirtyDayAvgMinutes": 47
+        }
+      }
+    },
+    "logId": 45072672580,
+    "logType": "auto_detected",
+    "minutesAfterWakeup": 0,
+    "minutesAsleep": 229,
+    "minutesAwake": 35,
+    "minutesToFallAsleep": 0,
+    "startTime": "2024-03-27T05:18:30.000",
+    "timeInBed": 264,
+    "type": "stages"
+  }]
+}

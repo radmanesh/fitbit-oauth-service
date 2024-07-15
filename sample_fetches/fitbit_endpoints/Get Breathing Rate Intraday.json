@@ -1,0 +1,38 @@
+{
+  "br": [
+      {
+          "value": {
+              "deepSleepSummary": {
+                  "breathingRate": 11.8
+              },
+              "remSleepSummary": {
+                  "breathingRate": 13.6
+              },
+              "fullSleepSummary": {
+                  "breathingRate": 11.8
+              },
+              "lightSleepSummary": {
+                  "breathingRate": 14.8
+              }
+          },
+          "dateTime": "2024-03-30"
+      },
+      {
+          "value": {
+              "deepSleepSummary": {
+                  "breathingRate": 14.6
+              },
+              "remSleepSummary": {
+                  "breathingRate": 13.2
+              },
+              "fullSleepSummary": {
+                  "breathingRate": 14.6
+              },
+              "lightSleepSummary": {
+                  "breathingRate": -1
+              }
+          },
+          "dateTime": "2024-03-30"
+      }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "heart_rate": [
+    {
+      "id": "user_idetqee",
+      "date": "2019-05-08",
+      "time": "00:00:00",
+      "value": 78
+    },
+    {
+      "id": "user_idetqee",
+      "date": "2019-05-08",
+      "time": "00:01:00",
+      "value": 78
+    },
+    {
+      "id": "user_idetqee",
+      "date": "2019-05-08",
+      "time": "00:02:00",
+      "value": 77
+    },
+    {
+      "id": "user_idetqee",
+      "date": "2019-05-08",
+      "time": "00:03:00",
+      "value": 77
+    },
+    {
+      "id": "user_idetqee",
+      "date": "2019-05-08",
+      "time": "00:04:00",
+      "value": 77
+    }
+  ]
+}

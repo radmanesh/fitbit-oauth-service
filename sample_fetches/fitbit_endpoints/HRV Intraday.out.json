@@ -1,0 +1,28 @@
+{
+  "hrv_intraday": [
+    {
+      "id": "user_idrxsv1c",
+      "date": "2024-03-10",
+      "rmssd": 48.282,
+      "coverage": 0.732,
+      "hf": 377.752,
+      "lf": 1302.192
+    },
+    {
+      "id": "user_idrxsv1c",
+      "date": "2024-03-10",
+      "rmssd": 33.894,
+      "coverage": 0.971,
+      "hf": 353.03,
+      "lf": 713.211
+    },
+    {
+      "id": "user_idrxsv1c",
+      "date": "2024-03-10",
+      "rmssd": 26.136,
+      "coverage": 0.97,
+      "hf": 214.968,
+      "lf": 474.11
+    }
+  ]
+}

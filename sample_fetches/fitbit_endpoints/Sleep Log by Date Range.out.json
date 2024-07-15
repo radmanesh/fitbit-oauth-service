@@ -1,0 +1,37 @@
+{
+  "sleep": [
+    {
+      "id": "user_idbn1eh4j",
+      "date": "2024-03-27",
+      "awake_count": 14,
+      "awake_duration": 35,
+      "awakenings_count": 0,
+      "date_of_sleep": "2024-03-27",
+      "duration": 15840000,
+      "efficiency": 92,
+      "end_time": "2024-03-27T09:42:30.000",
+      "is_main_sleep": true,
+      "log_id": 45072672580,
+      "minutes_after_wakeup": 0,
+      "minutes_asleep": 229,
+      "minutes_awake": 35,
+      "minutes_to_fall_asleep": 0,
+      "restless_count": 0,
+      "restless_duration": 0,
+      "start_time": "2024-03-27T05:18:30.000",
+      "time_in_bed": 264
+    }
+  ],
+  "sleep_summary": [
+    {
+      "date": "2024-03-27",
+      "total_minutes_asleep": 229,
+      "total_sleep_records": 1,
+      "total_time_in_bed": 264,
+      "stages_deep": 47,
+      "stages_light": 122,
+      "stages_rem": 60,
+      "stages_wake": 35
+    }
+  ]
+}

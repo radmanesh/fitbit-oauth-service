@@ -1,0 +1,48 @@
+{
+  "heart_rate_zones": [
+    {
+      "id": "user_idgl03zj",
+      "date": "2023-06-15",
+      "out_of range_calories_out": 414.7552,
+      "out_of range_minutes": 367,
+      "out_of range_min_hr": 30,
+      "out_of range_max_hr": 88,
+      "fat_burn_calories_out": 189.23206,
+      "fat_burn_minutes": 69,
+      "fat_burn_min_hr": 88,
+      "fat_burn_max_hr": 123,
+      "cardio_calories_out": 12.1249,
+      "cardio_minutes": 2,
+      "cardio_min_hr": 123,
+      "cardio_max_hr": 150,
+      "peak_calories_out": 0,
+      "peak_minutes": 0,
+      "peak_min_hr": 150,
+      "peak_max_hr": 220
+    },
+    {
+      "id": "user_idgl03zj",
+      "date": "2023-06-16",
+      "out_of range_min_hr": 30,
+      "out_of range_max_hr": 88,
+      "fat_burn_min_hr": 88,
+      "fat_burn_max_hr": 123,
+      "cardio_min_hr": 123,
+      "cardio_max_hr": 150,
+      "peak_min_hr": 150,
+      "peak_max_hr": 220
+    },
+    {
+      "id": "user_idgl03zj",
+      "date": "2023-06-17",
+      "out_of range_min_hr": 30,
+      "out_of range_max_hr": 88,
+      "fat_burn_min_hr": 88,
+      "fat_burn_max_hr": 123,
+      "cardio_min_hr": 123,
+      "cardio_max_hr": 150,
+      "peak_min_hr": 150,
+      "peak_max_hr": 220
+    }
+  ]
+}

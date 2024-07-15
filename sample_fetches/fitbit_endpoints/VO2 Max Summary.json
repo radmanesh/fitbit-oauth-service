@@ -1,0 +1,17 @@
+{
+  "cardioScore": [
+  {
+    "dateTime": "2024-01-17",
+    "value":
+    {
+      "vo2Max": "45-49"
+    }
+  },
+  {
+    "dateTime": "2024-01-18",
+    "value":
+    {
+      "vo2Max": "45-49"
+    }
+  }]
+}

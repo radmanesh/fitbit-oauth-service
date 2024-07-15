@@ -1,0 +1,16 @@
+{
+  "activities-minutesSedentary": [
+      {
+          "dateTime": "2023-03-31",
+          "value": "1440"
+      },
+      {
+          "dateTime": "2023-04-01",
+          "value": "1440"
+      },
+      {
+          "dateTime": "2023-04-02",
+          "value": "1440"
+      }
+  ]
+}

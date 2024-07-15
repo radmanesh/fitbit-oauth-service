@@ -1,0 +1,48 @@
+{
+  "best":
+  {
+    "total":
+    {
+      "distance":
+      {
+        "date": "2024-02-18",
+        "value": 3.90349
+      },
+      "steps":
+      {
+        "date": "2024-02-18",
+        "value": 5743
+      }
+    },
+    "tracker":
+    {
+      "distance":
+      {
+        "date": "2024-02-18",
+        "value": 3.90349
+      },
+      "steps":
+      {
+        "date": "2024-02-18",
+        "value": 5743
+      }
+    }
+  },
+  "lifetime":
+  {
+    "total":
+    {
+      "activeScore": -1,
+      "caloriesOut": -1,
+      "distance": 136.08,
+      "steps": 201278
+    },
+    "tracker":
+    {
+      "activeScore": -1,
+      "caloriesOut": -1,
+      "distance": 136.08,
+      "steps": 201278
+    }
+  }
+}

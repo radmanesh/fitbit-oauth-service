@@ -1,0 +1,99 @@
+{
+  "activities": [
+  {
+    "activityId": 90013,
+    "activityParentId": 90013,
+    "activityParentName": "Walk",
+    "calories": 180,
+    "description": "Walking less than 2 mph, strolling very slowly",
+    "duration": 1434000,
+    "hasActiveZoneMinutes": true,
+    "hasStartTime": true,
+    "isFavorite": false,
+    "lastModified": "2024-04-01T12:33:51.000Z",
+    "logId": 62512498654,
+    "name": "Walk",
+    "startDate": "2024-04-01",
+    "startTime": "13:04",
+    "steps": 1765
+  }],
+  "goals":
+  {
+    "activeMinutes": 30,
+    "caloriesOut": 2322,
+    "distance": 8.05,
+    "steps": 10000
+  },
+  "summary":
+  {
+    "activeScore": -1,
+    "activityCalories": 554,
+    "caloriesBMR": 1549,
+    "caloriesOut": 2014,
+    "distances": [
+    {
+      "activity": "total",
+      "distance": 2.44
+    },
+    {
+      "activity": "tracker",
+      "distance": 2.44
+    },
+    {
+      "activity": "loggedActivities",
+      "distance": 0
+    },
+    {
+      "activity": "veryActive",
+      "distance": 1.14
+    },
+    {
+      "activity": "moderatelyActive",
+      "distance": 0.12
+    },
+    {
+      "activity": "lightlyActive",
+      "distance": 1.17
+    },
+    {
+      "activity": "sedentaryActive",
+      "distance": 0
+    }],
+    "fairlyActiveMinutes": 4,
+    "heartRateZones": [
+    {
+      "caloriesOut": 1281.5127,
+      "max": 118,
+      "min": 30,
+      "minutes": 942,
+      "name": "Out of Range"
+    },
+    {
+      "caloriesOut": 301.27383,
+      "max": 145,
+      "min": 118,
+      "minutes": 58,
+      "name": "Fat Burn"
+    },
+    {
+      "caloriesOut": 10.1439,
+      "max": 178,
+      "min": 145,
+      "minutes": 1,
+      "name": "Cardio"
+    },
+    {
+      "caloriesOut": 0,
+      "max": 220,
+      "min": 178,
+      "minutes": 0,
+      "name": "Peak"
+    }],
+    "lightlyActiveMinutes": 100,
+    "marginalCalories": 310,
+    "restingHeartRate": 66,
+    "sedentaryMinutes": 741,
+    "steps": 3586,
+    "veryActiveMinutes": 20
+  }
+}

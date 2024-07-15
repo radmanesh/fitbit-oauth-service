@@ -1,0 +1,21 @@
+{
+  "activities-distance": [
+  {
+    "dateTime": "2024-04-04",
+    "value": "0.0"
+  }],
+  "activities-distance-intraday":
+  {
+    "dataset": [
+    {
+      "time": "00:00:00",
+      "value": 0
+    },
+    {
+      "time": "00:01:00",
+      "value": 0
+    }],
+    "datasetInterval": 1,
+    "datasetType": "minute"
+  }
+}

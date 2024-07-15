@@ -1,0 +1,52 @@
+{
+  "activities": [
+    {
+      "activeDuration": 1536000,
+      "activityLevel": [
+        {
+          "minutes": 3,
+          "name": "sedentary"
+        },
+        {
+          "minutes": 9,
+          "name": "lightly"
+        },
+        {
+          "minutes": 2,
+          "name": "fairly"
+        },
+        {
+          "minutes": 11,
+          "name": "very"
+        }
+      ],
+      "activityName": "Walk",
+      "activityTypeId": 90013,
+      "calories": 204,
+      "caloriesLink": "https://api.fitbit.com/1/user/-/activities/calories/date/2019-01-03/2019-01-03/1min/time/12:08/12:34.json",
+      "duration": 1536000,
+      "elevationGain": 0,
+      "lastModified": "2019-01-04T19:31:15.000Z",
+      "logId": 19018673358,
+      "logType": "auto_detected",
+      "manualValuesSpecified": {
+        "calories": false,
+        "distance": false,
+        "steps": false
+      },
+      "originalDuration": 1536000,
+      "originalStartTime": "2019-01-03T12:08:29.000-08:00",
+      "startTime": "2019-01-03T12:08:29.000-08:00",
+      "steps": 1799,
+      "tcxLink": "https://api.fitbit.com/1/user/-/activities/19018673358.tcx"
+    }
+  ],
+  "pagination": {
+    "afterDate": "2019-01-01",
+    "limit": 1,
+    "next": "https://api.fitbit.com/1/user/-/activities/list.json?offset=0&limit=1&sort=asc&afterDate=2019-01-01",
+    "offset": 0,
+    "previous": "",
+    "sort": "asc"
+  }
+}

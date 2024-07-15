@@ -1,0 +1,14 @@
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+.certs
+sample_fetches/jamasp_fetch_files
+output.out
+output.txt
+local.env
+output*
+*.log
+out.txt

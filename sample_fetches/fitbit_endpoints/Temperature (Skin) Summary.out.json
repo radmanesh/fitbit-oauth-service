@@ -1,0 +1,22 @@
+{
+  "temp_skin": [
+    {
+      "id": "user_idsagzlb",
+      "date": "2024-03-01",
+      "log_type": "other_sensors",
+      "nightly_relative": 0.8
+    },
+    {
+      "id": "user_idsagzlb",
+      "date": "2024-03-02",
+      "log_type": "other_sensors",
+      "nightly_relative": -0.2
+    },
+    {
+      "id": "user_idsagzlb",
+      "date": "2024-03-03",
+      "log_type": "other_sensors",
+      "nightly_relative": 0.7
+    }
+  ]
+}

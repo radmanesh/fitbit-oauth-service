@@ -1,0 +1,37 @@
+{
+  "activities-active-zone-minutes": [
+  {
+    "dateTime": "2023-07-03",
+    "value":
+    {
+      "fatBurnActiveZoneMinutes": 1,
+      "peakActiveZoneMinutes": 4,
+      "activeZoneMinutes": 5
+    }
+  },
+  {
+    "dateTime": "2023-07-10",
+    "value":
+    {
+      "fatBurnActiveZoneMinutes": 2,
+      "activeZoneMinutes": 2
+    }
+  },
+  {
+    "dateTime": "2023-07-12",
+    "value":
+    {
+      "fatBurnActiveZoneMinutes": 1,
+      "activeZoneMinutes": 1
+    }
+  },
+  {
+    "dateTime": "2023-07-24",
+    "value":
+    {
+      "fatBurnActiveZoneMinutes": 16,
+      "cardioActiveZoneMinutes": 4,
+      "activeZoneMinutes": 20
+    }
+  }]
+}

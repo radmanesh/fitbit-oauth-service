@@ -1,0 +1,35 @@
+{
+  "hrv": [
+  {
+    "value":
+    {
+      "dailyRmssd": 77.63,
+      "deepRmssd": 68.407
+    },
+    "dateTime": "2024-03-01"
+  },
+  {
+    "value":
+    {
+      "dailyRmssd": 60.901,
+      "deepRmssd": 40.692
+    },
+    "dateTime": "2024-03-02"
+  },
+  {
+    "value":
+    {
+      "dailyRmssd": 0,
+      "deepRmssd": 90.676
+    },
+    "dateTime": "2024-03-03"
+  },
+  {
+    "value":
+    {
+      "dailyRmssd": 55.754,
+      "deepRmssd": 49.529
+    },
+    "dateTime": "2024-03-04"
+  }]
+}

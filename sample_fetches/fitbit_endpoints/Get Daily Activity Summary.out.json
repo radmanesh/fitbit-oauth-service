@@ -1,0 +1,50 @@
+{
+  "activity_logs": [
+    {
+      "id": "user_idto4vkv",
+      "date": "2024-04-01",
+      "activity_id": 90013,
+      "activity_parent_id": 90013,
+      "activity_parent_name": "Walk",
+      "calories": 180,
+      "description": "Walking less than 2 mph, strolling very slowly",
+      "duration": 1434000,
+      "has_active_zone_minutes": true,
+      "has_start_time": true,
+      "is_favorite": false,
+      "last_modified": "2024-04-01T12:33:51.000Z",
+      "log_id": 62512498654,
+      "name": "Walk",
+      "start_date": "2024-04-01",
+      "start_time": "13:04",
+      "steps": 1765
+    }
+  ],
+  "activity_goals": [
+    {
+      "id": "user_idto4vkv",
+      "date": "2024-04-01",
+      "active_minutes": 30,
+      "calories_out": 2322,
+      "distance": 8.05,
+      "steps": 10000
+    }
+  ],
+  "activity_summary": [
+    {
+      "id": "user_idto4vkv",
+      "date": "2024-04-01",
+      "activeScore": -1,
+      "activityCalories": 554,
+      "caloriesBMR": 1549,
+      "caloriesOut": 2014,
+      "fairlyActiveMinutes": 4,
+      "lightlyActiveMinutes": 100,
+      "marginalCalories": 310,
+      "restingHeartRate": 66,
+      "sedentaryMinutes": 741,
+      "steps": 3586,
+      "veryActiveMinutes": 20
+    }
+  ]
+}

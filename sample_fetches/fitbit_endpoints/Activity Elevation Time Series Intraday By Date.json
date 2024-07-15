@@ -1,0 +1,21 @@
+{
+  "activities-elevation": [
+  {
+    "dateTime": "2024-03-10",
+    "value": "0"
+  }],
+  "activities-elevation-intraday":
+  {
+    "dataset": [
+    {
+      "time": "00:00:00",
+      "value": 0
+    },
+    {
+      "time": "00:01:00",
+      "value": 0
+    }],
+    "datasetInterval": 1,
+    "datasetType": "minute"
+  }
+}

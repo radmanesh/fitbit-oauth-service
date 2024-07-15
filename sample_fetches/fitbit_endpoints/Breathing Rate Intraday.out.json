@@ -1,0 +1,12 @@
+{
+  "breathing_rate": [
+    {
+      "id": "user_id1lpa3s",
+      "date": "2024-03-01",
+      "deepSleepSummary": 13.2,
+      "remSleepSummary": 12.6,
+      "fullSleepSummary": 13.2,
+      "lightSleepSummary": 12.8
+    }
+  ]
+}

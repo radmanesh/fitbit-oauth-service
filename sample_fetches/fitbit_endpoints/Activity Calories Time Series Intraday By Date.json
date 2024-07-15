@@ -1,0 +1,25 @@
+{
+  "activities-calories": [
+  {
+    "dateTime": "2024-03-10",
+    "value": "1924"
+  }],
+  "activities-calories-intraday":
+  {
+    "dataset": [
+    {
+      "level": 0,
+      "mets": 10,
+      "time": "00:00:00",
+      "value": 1.1270999908447266
+    },
+    {
+      "level": 0,
+      "mets": 10,
+      "time": "00:01:00",
+      "value": 1.1270999908447266
+    }],
+    "datasetInterval": 1,
+    "datasetType": "minute"
+  }
+}

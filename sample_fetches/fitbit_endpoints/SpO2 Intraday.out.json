@@ -1,0 +1,28 @@
+{
+  "spo2_intraday": [
+    {
+      "id": "user_idhdg8g",
+      "date": "2024-03-10",
+      "value": 96.3,
+      "minute": "2024-03-10T00:30:03"
+    },
+    {
+      "id": "user_idhdg8g",
+      "date": "2024-03-10",
+      "value": 96.4,
+      "minute": "2024-03-10T00:31:03"
+    },
+    {
+      "id": "user_idhdg8g",
+      "date": "2024-03-10",
+      "value": 96.3,
+      "minute": "2024-03-10T00:32:03"
+    },
+    {
+      "id": "user_idhdg8g",
+      "date": "2024-03-10",
+      "value": 96.5,
+      "minute": "2024-03-10T00:33:03"
+    }
+  ]
+}

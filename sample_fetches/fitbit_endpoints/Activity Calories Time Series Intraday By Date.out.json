@@ -1,0 +1,20 @@
+{
+  "intraday_calories": [
+    {
+      "id": "user_idvd6ido",
+      "date": "2024-03-10",
+      "level": 0,
+      "mets": 10,
+      "time": "00:00:00",
+      "value": 1.1270999908447266
+    },
+    {
+      "id": "user_idvd6ido",
+      "date": "2024-03-10",
+      "level": 0,
+      "mets": 10,
+      "time": "00:01:00",
+      "value": 1.1270999908447266
+    }
+  ]
+}

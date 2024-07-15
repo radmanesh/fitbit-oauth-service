@@ -1,0 +1,28 @@
+{
+  "hrv_summary": [
+    {
+      "id": "user_idjo3vb7",
+      "date": "2024-03-01",
+      "daily_rmssd": 77.63,
+      "deep_rmssd": 68.407
+    },
+    {
+      "id": "user_idjo3vb7",
+      "date": "2024-03-02",
+      "daily_rmssd": 60.901,
+      "deep_rmssd": 40.692
+    },
+    {
+      "id": "user_idjo3vb7",
+      "date": "2024-03-03",
+      "daily_rmssd": null,
+      "deep_rmssd": 90.676
+    },
+    {
+      "id": "user_idjo3vb7",
+      "date": "2024-03-04",
+      "daily_rmssd": 55.754,
+      "deep_rmssd": 49.529
+    }
+  ]
+}
